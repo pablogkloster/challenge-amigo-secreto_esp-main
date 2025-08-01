@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-![Portada](<img width="500" height="236" alt="Amigo Secreto 2" src="https://github.com/user-attachments/assets/c6f67e78-a983-403f-b504-6593ff71df30" />)
+<img width="500" height="236" alt="Amigo Secreto 2" src="https://github.com/user-attachments/assets/c6f67e78-a983-403f-b504-6593ff71df30" />
 
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)

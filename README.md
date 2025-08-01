@@ -1,6 +1,7 @@
 # 🎁 Amigo Secreto
 
-![Portada](./Amigo%20Secreto%202.png)
+![Portada](<img width="500" height="236" alt="Amigo Secreto 2" src="https://github.com/user-attachments/assets/c6f67e78-a983-403f-b504-6593ff71df30" />)
+
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
@@ -54,7 +55,7 @@ Para dudas o sugerencias sobre el proyecto, puedes:
 ## 👨‍💻 Autores del proyecto
 
 - 🚀 Proyecto desarrollado como parte de un desafío de programación con fines educativos.
-- Autores: *(completar con tus datos si lo deseás)*
+- Autor: Pablo Kloster
 
 ---
 

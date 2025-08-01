@@ -11,7 +11,7 @@
 
 - [📝 Descripción del proyecto](#-descripción-del-proyecto)
 - [⚙️ Funcionalidades](#️-funcionalidades)
-- [👥 ¿Cómo pueden usarlo los usuarios?](#-¿cómo-pueden-usarlo-los-usuarios)
+- [👥 ¿Cómo pueden usarlo los usuarios?](#cómo-pueden-usarlo-los-usuarios)
 - [❓ Ayuda y soporte](#-ayuda-y-soporte)
 - [👨‍💻 Autores del proyecto](#-autores-del-proyecto)
 

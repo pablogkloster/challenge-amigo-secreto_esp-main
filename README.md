@@ -25,8 +25,8 @@
 
 ## ⚙️ Funcionalidades
 
-- ✏️ **Agregar nombres**: los usuarios escriben un nombre en un campo de texto y lo agregan con el botón **"Adicionar"**.
-- 🚫 **Validación de entrada**: si el campo está vacío, se muestra una alerta solicitando un nombre válido.
+- ✏️ **Agregar nombres**: los usuarios escriben un nombre en un campo de texto y lo agregan con el botón **"Añadir"**.
+- 🚫 **Validación de entrada**: si el campo está vacío, se muestra una alerta solicitando un nombre.
 - 📃 **Visualización de la lista**: todos los nombres ingresados se muestran en pantalla.
 - 🎲 **Sorteo aleatorio**: el botón **"Sortear Amigo"** elige un nombre aleatoriamente de la lista.
 
@@ -34,8 +34,8 @@
 
 ## 👥 Cómo pueden usarlo los usuarios
 
-1. Ingresar el nombre de un participante en el campo de texto.
-2. Hacer clic en **"Adicionar"** para agregarlo a la lista.
+1. Ingresar el nombre de un participante en el campo de texto, "Escribe un nombre".
+2. Hacer clic en **"Añadir"** para agregarlo a la lista.
 3. Repetir hasta tener a todos los participantes.
 4. Presionar **"Sortear Amigo"** para revelar al afortunado.
 5. Ver el resultado directamente en pantalla.

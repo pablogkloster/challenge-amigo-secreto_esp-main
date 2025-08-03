@@ -35,11 +35,12 @@
 ## 👥 Cómo pueden usarlo los usuarios
 
 1. Ingresar el nombre de un participante en el campo de texto, "Escribe un nombre".
-2. Hacer clic en **"Añadir"** para agregarlo a la lista.
-3. Repetir hasta tener a todos los participantes.
-4. Presionar **"Sortear Amigo"** para revelar al afortunado.
-5. Ver el resultado directamente en pantalla.
-
+3. Hacer clic en **"Añadir"** para agregarlo a la lista.
+4. Repetir hasta tener a todos los participantes.
+   ![Demostración Agregar Participantes](assets/agregar-nombres.gif)
+5. Presionar **"Sortear Amigo"** para revelar al afortunado.
+6. Ver el resultado directamente en pantalla.
+  ![Demostración Sortear Participantes](assets/sortear-nombres.gif)
 ---
 
 ## ❓ Ayuda y soporte

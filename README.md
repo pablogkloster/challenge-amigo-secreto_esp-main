@@ -55,7 +55,7 @@ Para dudas o sugerencias sobre el proyecto, puedes:
 
 ## 👨‍💻 Autores del proyecto
 
-- 🚀 Proyecto desarrollado como parte de un desafío de programación con fines educativos.
+- 🚀 Proyecto desarrollado como parte de un desafío de programación.
 - Autor: Pablo Kloster
 
 ---
